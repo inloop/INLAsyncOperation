@@ -1,0 +1,16 @@
+PODS:
+  - INLAsyncOperation (0.1.0)
+
+DEPENDENCIES:
+  - INLAsyncOperation (from `../`)
+
+EXTERNAL SOURCES:
+  INLAsyncOperation:
+    :path: ../
+
+SPEC CHECKSUMS:
+  INLAsyncOperation: 31e9cce0429fcb91f564a540610e09a4c5332169
+
+PODFILE CHECKSUM: 718123ac7ecdc924952349c805dcd22b05928dbc
+
+COCOAPODS: 1.3.1

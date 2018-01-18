@@ -1,0 +1,6 @@
+framework module Pods_INLAsyncOperationExample {
+  umbrella header "Pods-INLAsyncOperationExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

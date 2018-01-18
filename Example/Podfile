@@ -1,0 +1,6 @@
+use_frameworks!
+target 'INLAsyncOperationExample' do
+  pod 'INLAsyncOperation', :path => '../'
+  
+  
+end

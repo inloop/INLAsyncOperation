@@ -1,0 +1,22 @@
+{
+  "name": "INLAsyncOperation",
+  "version": "0.1.0",
+  "summary": "A short description of INLAsyncOperation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/radimhalfar/INLAsyncOperation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "radimhalfar": "radim.halfar@inloop.eu"
+  },
+  "source": {
+    "git": "https://github.com/radimhalfar/INLAsyncOperation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "INLAsyncOperation/Classes/**/*"
+}
